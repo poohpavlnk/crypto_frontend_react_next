@@ -1,4 +1,4 @@
 const { setConfig } = require('next/config')
 setConfig(require('./next.config'))
 
-require('./server')
+require('./server')# Change 1 on 2020-04-29
