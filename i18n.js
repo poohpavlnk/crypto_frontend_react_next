@@ -14,3 +14,4 @@ module.exports = new NextI18Next({
     zh: 'zh',
   },
 });
+# Change 2 on 2020-04-29
