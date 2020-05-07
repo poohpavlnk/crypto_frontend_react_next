@@ -26,3 +26,4 @@ npm run build
 npm start
 ```
 # Change 2 on 2020-04-30
+# Change 0 on 2020-05-07
