@@ -15,3 +15,4 @@ module.exports = new NextI18Next({
   },
 });
 # Change 2 on 2020-04-29
+# Change 0 on 2020-05-10
