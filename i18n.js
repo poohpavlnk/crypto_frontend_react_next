@@ -20,3 +20,4 @@ module.exports = new NextI18Next({
 # Change 1 on 2020-05-09
 # Change 2 on 2020-05-07
 # Change 3 on 2020-05-07
+# Change 0 on 2020-05-14
