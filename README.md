@@ -78,3 +78,4 @@ npm start
 # Change 2 on 2024-06-13
 # Change 2 on 2024-07-01
 # Change 1 on 2024-07-02
+# Change 0 on 2024-07-10
