@@ -81,3 +81,4 @@ module.exports = withImages(
 # Change 0 on 2024-09-18
 # Change 3 on 2024-10-03
 # Change 2 on 2024-10-16
+# Change 1 on 2024-11-13
